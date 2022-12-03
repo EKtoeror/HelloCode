@@ -1,0 +1,15 @@
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.csproj.AssemblyReference.cache
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.AssemblyInfo.cs
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.exe
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.deps.json
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.runtimeconfig.json
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.dll
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.pdb
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.dll
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\refint\Example005_If_Else.dll
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.pdb
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.genruntimeconfig.cache
+C:\Users\Я\Desktop\Обучение\С#\C# git\Examples\Example005_If_Else\obj\Debug\net6.0\ref\Example005_If_Else.dll
